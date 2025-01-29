@@ -91,3 +91,6 @@ Compatible with Linux, Windows, or macOS.
 ## Gradio_Interface_UI
 
 Code_File = https://github.com/YashviPopat/Brain-Tumor-Segmentation/blob/d1a3b09ed720e9cc3c11cb4f729d02e0e68fe55f/Gradio.ipynb
+
+## authors
+[@Jigar-sarda](https://www.github.com/jigar-sarda)
