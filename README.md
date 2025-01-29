@@ -10,6 +10,8 @@
 
 5) [User Interface](#UserInterface)
 
+6) [authors](#authors)
+
 
 
 ## Brain Tumor Segmentation
